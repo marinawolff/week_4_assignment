@@ -1,0 +1,33 @@
+/* This is a CSS file */
+
+body { 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: darkslategray;
+    background-color: ghostwhite;
+    margin: 0;
+    padding: 0;
+    }
+
+header, footer { 
+    width: 1100px;
+    background-color: lavender;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+footer {
+        text-align: center;
+    }
+    .name {
+        color: rgb(0, 184, 240);
+    }
+
+
+#my-image{
+        box-shadow: 0px 0px 2px 1px #000000;
+        width: 400px;  
+    }
+
+
